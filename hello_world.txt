@@ -1,0 +1,3 @@
+This is a sample text in hello_world.txt.
+Hello world!!
+Wake up to reality! Nothing ever goes as planned in this accursed world.
